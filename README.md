@@ -104,6 +104,9 @@ output/
 
 Monthly composites are generated only when the minimum valid spatial coverage threshold is met. Months without sufficient valid data are reported but are not interpolated or artificially filled.
 
+<img width="2713" height="2860" alt="ndvi_monthly_comparison_2025" src="https://github.com/user-attachments/assets/6ca1a758-9e7d-40da-a148-0a8596ad4eb6" />
+
+
 ## Methodology
 
 The processing workflow consists of:
